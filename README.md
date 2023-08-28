@@ -25,3 +25,4 @@ Step2: Install dependencies using terminal "pip install -r requirements.txt". If
 4. Baseline_BiLSTM.ipynb: BiDirectional LSTM as a baseline model.
 5. Baseline_RNN.ipynb: Vanilla RNN model as a baseline model.
 6. Baseline_ML.ipynb: It contains the code for Random Forest and Support Vector Machine (SVM) as baseline models
+7. BERTCNN_SingleLabel: Code for single label classification. 
